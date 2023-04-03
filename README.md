@@ -1,2 +1,4 @@
-# daily-chengyu
-Gives you one (1) daily Chinese idiom every day for the low, low cost of free!
+# chengyu-api
+
+Chengyu 成语 are "a type of traditional Chinese idiomatic expression, most
+of which consist of four charaters."
